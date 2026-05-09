@@ -15,6 +15,14 @@ Analytics: Python, Pandas
 Visuals: Plotly, Seaborn
 
 AI Model: Scikit-Learn (Linear Regression)
+<img width="3504" height="2426" alt="image" src="https://github.com/user-attachments/assets/c18477b7-392d-486a-b9a5-10882424ccfa" />
+
+<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/b587ed15-5cf1-444d-a5b7-82f7fe496d61" />
+
+<img width="533" height="435" alt="image" src="https://github.com/user-attachments/assets/4fc96683-cf27-4c79-8c1c-e01d546857d5" />
+
+
+
 
 Interface: Streamlit
 
