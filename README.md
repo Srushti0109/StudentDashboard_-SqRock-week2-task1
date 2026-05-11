@@ -2,12 +2,13 @@
 
 📌 Quick Summary
 An interactive Data Science product that analyzes student test scores and uses a Linear Regression model to predict Math results based on Reading and Writing performance.
-https://studentdashboard-sqrock-week2-task1-sysvhdonzyjr69zpksy2ph.streamlit.app/
 
 🖼️ Project Gallery
 1. Live Dashboard
+   https://studentdashboard-sqrock-week2-task1-sysvhdonzyjr69zpksy2ph.streamlit.app/
 
-2. ML Model Training (Colab)
+3. ML Model Training (Colab)
+   https://colab.research.google.com/drive/1jaUquZnJBZRHS2a-OcwzVQnX-1c0yxGc?usp=drive_link
 
 🛠️ Tech Stack
 Analytics: Python, Pandas
